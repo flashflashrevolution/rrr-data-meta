@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: RRR Metadata
+description: This is where the compiled metadata for artists, chartists, songlists, and songs is hosted.
+show_downloads: false
+logo: https://www.flashflashrevolution.com/images/2008/ffr-logo-transparent.png
